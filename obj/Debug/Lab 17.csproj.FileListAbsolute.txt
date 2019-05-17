@@ -1,0 +1,7 @@
+C:\Users\EpikF\source\repos\Lab 17\Lab 17\obj\Debug\Lab 17.csprojAssemblyReference.cache
+C:\Users\EpikF\source\repos\Lab 17\Lab 17\obj\Debug\Lab 17.csproj.CoreCompileInputs.cache
+C:\Users\EpikF\source\repos\Lab 17\Lab 17\bin\Debug\Lab 17.exe.config
+C:\Users\EpikF\source\repos\Lab 17\Lab 17\bin\Debug\Lab 17.exe
+C:\Users\EpikF\source\repos\Lab 17\Lab 17\bin\Debug\Lab 17.pdb
+C:\Users\EpikF\source\repos\Lab 17\Lab 17\obj\Debug\Lab 17.exe
+C:\Users\EpikF\source\repos\Lab 17\Lab 17\obj\Debug\Lab 17.pdb
